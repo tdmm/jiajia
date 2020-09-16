@@ -3,6 +3,6 @@ package jiajia
 import "fmt"
 
 func init() {
-	fmt.Println("jiajia")
+	fmt.Println("no jiajia")
 }
 
